@@ -37,3 +37,5 @@ npm run preview
 01번 글의 `public/images/dog-grooming-scissors-care.png`는 가위 관리 주제에 맞춘 AI 생성 이미지입니다.
 
 02번 글의 `public/images/dog-grooming-inspection.png`는 반려견과 미용사의 가위 점검 모습을 담은 AI 생성 이미지입니다.
+
+03번 글의 `public/images/dog-grooming-scissors-selection.png`는 손에 맞는 애견 미용가위를 고르는 모습을 담은 AI 생성 이미지입니다.

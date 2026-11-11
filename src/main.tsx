@@ -7,7 +7,7 @@ type Post = {id:number; category:string; title:string; description:string; date:
 const photos = {
  scissors:'/images/dog-grooming-scissors-care.png',
  tools:'/images/dog-grooming-inspection.png',
- shop:'/images/shop.jpg',
+ shop:'/images/dog-grooming-scissors-selection.png',
  hands:'/images/hands.jpg'
 };
 const posts:Post[] = [
