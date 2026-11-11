@@ -32,4 +32,4 @@ npm run preview
 
 현재 화면 배포에는 환경 변수가 필요하지 않습니다. 전화 문의는 전화 앱으로, 구매 링크는 네이버 스마트스토어로 연결됩니다. 문의 저장이나 관리자 글 작성 같은 백엔드 기능은 아직 구현하지 않았습니다. Vercel 배포 시 영구 데이터 저장은 별도의 데이터베이스 연결이 필요합니다.
 
-메인 배너의 `public/images/dog-grooming-scissors.png`는 AI로 생성한 애견 미용가위 이미지이며, 실제 판매 제품 사진이 아닙니다.
+메인 배너의 `public/images/dog-grooming-scissors-bright.png`는 AI로 생성한 애견 미용가위 이미지이며, 실제 판매 제품 사진이 아닙니다.
