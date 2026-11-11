@@ -8,7 +8,7 @@ const photos = {
  scissors:'/images/dog-grooming-scissors-care.png',
  tools:'/images/dog-grooming-inspection.png',
  shop:'/images/dog-grooming-scissors-selection.png',
- hands:'/images/hands.jpg'
+ hands:'/images/dog-grooming-cleanup.png'
 };
 const posts:Post[] = [
  {id:1,category:'가위 관리',title:'좋은 가위는, 잘 관리한 가위입니다',description:'매일 손에 닿는 도구를 위한 작은 습관. 가위의 수명을 늘리는 기본 관리법을 소개합니다.',date:'2026.11.11',minutes:5,image:photos.scissors,body:['가위는 손의 감각을 그대로 전하는 도구입니다. 날의 상태와 나사의 장력, 작은 이물질 하나도 사용할 때의 느낌을 바꿀 수 있습니다.','사용 후에는 부드러운 마른 천으로 날과 손잡이의 이물질을 닦아 주세요. 물기가 남았다면 충분히 말린 뒤 보관합니다. 소독 방법은 제조사의 안내를 먼저 확인하세요.','가위 전용 오일은 제조사가 권장하는 위치와 양에 맞춰 사용하세요. 여분의 오일은 닦아 내고, 날을 닫은 상태로 전용 케이스에 넣어 보관하면 충격을 줄일 수 있습니다.','절삭감이 달라졌다면 무리하게 힘을 주기보다 상태를 확인해 보세요. 일상적인 관리와 전문 점검은 서로 다른 역할을 합니다.']},

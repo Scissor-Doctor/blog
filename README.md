@@ -39,3 +39,5 @@ npm run preview
 02번 글의 `public/images/dog-grooming-inspection.png`는 반려견과 미용사의 가위 점검 모습을 담은 AI 생성 이미지입니다.
 
 03번 글의 `public/images/dog-grooming-scissors-selection.png`는 손에 맞는 애견 미용가위를 고르는 모습을 담은 AI 생성 이미지입니다.
+
+04번 글의 `public/images/dog-grooming-cleanup.png`는 애견 미용가위를 닦고 도구를 정리하는 모습을 담은 AI 생성 이미지입니다.
