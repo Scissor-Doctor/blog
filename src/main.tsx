@@ -5,7 +5,7 @@ import './style.css';
 
 type Post = {id:number; category:string; title:string; description:string; date:string; minutes:number; image:string; body:string[]};
 const photos = {
- scissors:'/images/scissors.jpg',
+ scissors:'/images/dog-grooming-scissors-bright.png',
  tools:'/images/tools.jpg',
  shop:'/images/shop.jpg',
  hands:'/images/hands.jpg'
