@@ -41,3 +41,5 @@ npm run preview
 03번 글의 `public/images/dog-grooming-scissors-selection.png`는 손에 맞는 애견 미용가위를 고르는 모습을 담은 AI 생성 이미지입니다.
 
 04번 글의 `public/images/dog-grooming-cleanup.png`는 애견 미용가위를 닦고 도구를 정리하는 모습을 담은 AI 생성 이미지입니다.
+
+브랜드 로고 `public/images/scissor-doctor-logo.png`는 사용자가 제공한 이미지에서 AI 편집으로 배경을 제거한 이미지입니다.

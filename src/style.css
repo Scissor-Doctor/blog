@@ -25,3 +25,5 @@
 @media(max-width:760px){.contact-info{padding:24px}.hero-caption h2{color:#234c3d}}
 
 .contact-info>.phone-label{display:block;font-size:11px;margin-top:22px;color:#5e7c68}.phone-label+.phone-link{margin-top:8px}.secondary-phone{font-size:24px}footer>p{line-height:1.9}
+
+.brand-logo{width:60px;height:83px;object-fit:contain}.brand-subtitle{font-size:19px;letter-spacing:-.7px;color:#174b86}.brand .brand-subtitle small{font-size:7px;letter-spacing:1px}.footer-logo{width:48px;height:64px;object-fit:contain}.banner-logo-wrap{width:100px;flex-shrink:0;display:grid;place-items:center}.banner-logo-wrap img{height:135px;width:100px;object-fit:contain}.about-logo{height:120px;width:90px;object-fit:contain}@media(max-width:760px){.brand-logo{height:66px;width:48px}.brand-subtitle{font-size:16px}.brand .brand-subtitle small{font-size:6px;letter-spacing:.4px}.brand{gap:9px}.banner-logo-wrap{width:60px}.banner-logo-wrap img{width:60px;height:85px}.footer-logo{height:60px;width:45px}}
