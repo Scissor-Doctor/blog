@@ -23,3 +23,5 @@
 .dialog{background:#fffefa}.article-note,.about-contact{background:#eef8f0}
 .article-image{filter:saturate(.85)}
 @media(max-width:760px){.contact-info{padding:24px}.hero-caption h2{color:#234c3d}}
+
+.contact-info>.phone-label{display:block;font-size:11px;margin-top:22px;color:#5e7c68}.phone-label+.phone-link{margin-top:8px}.secondary-phone{font-size:24px}footer>p{line-height:1.9}
