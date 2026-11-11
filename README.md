@@ -35,3 +35,5 @@ npm run preview
 메인 배너의 `public/images/dog-grooming-scissors-bright.png`는 AI로 생성한 애견 미용가위 이미지이며, 실제 판매 제품 사진이 아닙니다.
 
 01번 글의 `public/images/dog-grooming-scissors-care.png`는 가위 관리 주제에 맞춘 AI 생성 이미지입니다.
+
+02번 글의 `public/images/dog-grooming-inspection.png`는 반려견과 미용사의 가위 점검 모습을 담은 AI 생성 이미지입니다.
